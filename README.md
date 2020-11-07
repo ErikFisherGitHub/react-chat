@@ -1,7 +1,5 @@
-# React Firebase Super Chat
+# React Firebase Szuper Chat
 
-A simple fullstack chat demo with React and Firebase. 
+Egyszerű fullstack chat demó a React és a Firebase szolgáltatásokkal. 
 
-Watch on full [React Firebase Chat Tutorial](https://youtu.be/zQyrwxMPm88) on YouTube. 
-
-[Live demo](https://fireship-demos.web.app/)
+[Élő demó](https://www.halperterik.com/)
